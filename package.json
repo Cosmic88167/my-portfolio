@@ -20,7 +20,6 @@
     "@vercel/analytics": "^1.4.1",
     "gsa": "^0.0.0",
     "gsap": "^3.13.0",
-    "gsap-trial": "^3.12.7",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-fast-marquee": "^1.6.5",
@@ -39,6 +38,6 @@
     "globals": "^15.9.0",
     "typescript": "^5.5.3",
     "typescript-eslint": "^8.0.1",
-    "vite": "^5.4.1"
+    "vite": "^5.4.19"
   }
 }
